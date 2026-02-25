@@ -9,3 +9,5 @@
     "Create Site Skin"
     ↓
     Then paste the code in the CSS box and name it as you want.
+
+Used the "Reversi" skin as a base
