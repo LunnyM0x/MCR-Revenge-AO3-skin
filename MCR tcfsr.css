@@ -2,7 +2,7 @@
 #footer .group,
 .post fieldset fieldset,
 fieldset fieldset {
-background: none;
+  background: none;
 }
 
 body,
@@ -36,28 +36,28 @@ div.dynamic,
 .dynamic form,
 #ui-datepicker-div,
 .ui-datepicker table {
-background: #000000;
-color: #eee;
-border-color: #5f0000;
-outline: #111;
-box-shadow: none;
+  background: #000000;
+  color: #eee;
+  border-color: #5f0000;
+  outline: #111;
+  box-shadow: none;
 }
 
-#header h1 {
-    display: none !important;
-}
+/*#header h1 {*/
+/*  display: none !important;*/
+/*}*/
 
-#header::before {
-    content: "";
-    display: block;
-    height: 100px;
+/*#header::before {*/
+/*  content: "";*/
+/*  display: block;*/
+/*  height: 100px;*/
 
-    background-image: url("https://i.ibb.co/gLCPZjjH/banner-ao3.png");
+/*  background-image: url("https://i.ibb.co/gLCPZjjH/banner-ao3.png");*/
 
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-}
+/*  background-repeat: no-repeat;*/
+/*  background-position: center;*/
+/*  background-size: contain;*/
+/*}*/
 
 #header .actions a:hover,
 #header .actions a:focus,
@@ -80,7 +80,7 @@ th,
 .thread .even,
 .system .tweet_list li,
 .ui-datepicker tr:hover {
-background: #000000;
+  background: #000000;
 }
 
 #header .dropdown .menu a:hover,
@@ -89,7 +89,7 @@ background: #000000;
 .ui-datepicker td:hover,
 #tos_prompt .heading,
 #tos_prompt [disabled] {
-background: #000000;
+  background: #000000;
 }
 
 #outer,
@@ -98,15 +98,15 @@ background: #000000;
 #tos_prompt,
 .announcement input[type="submit"],
 .nomination dt {
-background: #000000;
+  background: #000000;
 }
 
 #header ul.primary,
 .toggled form {
-    background-image: url("https://i.ibb.co/XkjGwzvL/banner.png");
-    background-repeat: repeat;
-    background-position: center;
-    background-size: 500px auto;
+  background-image: url("https://i.ibb.co/XkjGwzvL/banner.png");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 500px auto;
 }
 
 #header ul.primary,
@@ -126,7 +126,7 @@ form.single fieldset,
 .bookmark .status span,
 .splash .news li,
 .filters .group dt.bookmarker {
-border-color: #555;
+  border-color: #555;
 }
 
 .group.listbox,
@@ -138,7 +138,7 @@ fieldset fieldset.listbox,
 form blockquote.userstuff,
 .thread .comment,
 .toggled form {
-box-shadow: 1px 1px 3px #000;
+  box-shadow: 1px 1px 3px #000;
 }
 
 #dashboard .current,
@@ -157,14 +157,14 @@ dl.index dd,
 .unwrangled,
 .unreviewed,
 .ui-sortable li:hover {
-background: #000000;
-border-color: #3b0000;
-box-shadow: -1px -1px 3px #000;
+  background: #000000;
+  border-color: #3b0000;
+  box-shadow: -1px -1px 3px #000;
 }
 
 input,
 textarea {
-box-shadow: inset 0 1px 2px #000;
+  box-shadow: inset 0 1px 2px #000;
 }
 
 li.blurb,
@@ -172,7 +172,7 @@ li.blurb,
 .listbox .index,
 fieldset fieldset.listbox,
 .dashboard .listbox .index {
-box-shadow: inset 1px 1px 3px #000;
+  box-shadow: inset 1px 1px 3px #000;
 }
 
 #footer a:hover,
@@ -183,14 +183,14 @@ a.tag:hover,
 .listbox .heading a.tag:visited:hover,
 .symbol .question,
 .qtip-content {
-background: #910000;
-color: #111;
+  background: #910000;
+  color: #111;
 }
 
 .splash .favorite li:nth-of-type(odd) a:hover,
 .splash .favorite li:nth-of-type(odd) a:focus {
-background: #910000;
-color: #111;
+  background: #910000;
+  color: #111;
 }
 
 #header #greeting img,
@@ -225,7 +225,7 @@ a.work,
 a.cloud7,
 a.cloud8,
 #tos_prompt .heading {
-color: #910000;
+  color: #910000;
 }
 
 #greeting .icon,
@@ -241,7 +241,7 @@ input.LV_invalid_field:active,
 textarea.LV_invalid_field:hover,
 textarea.LV_invalid_field:active,
 .qtip-content {
-border-color: #910000;
+  border-color: #910000;
 }
 
 a,
@@ -260,8 +260,8 @@ a.tag,
 .heading,
 .group .heading,
 .filters dt a:hover {
-color: #646464;
-text-shadow: 1px 1px 2px black;
+  color: #646464;
+  text-shadow: 1px 1px 2px black;
 }
 
 a:visited,
@@ -270,7 +270,7 @@ a:visited,
 .action a:visited,
 .listbox .heading a:visited,
 span.series .divider {
-color: #999;
+  color: #999;
 }
 
 .actions a,
@@ -284,11 +284,11 @@ button,
 .current,
 .actions label,
 #header .actions a {
-background: #000000;
-border-color: #222;
-color: #eee;
-box-shadow: inset 0 -8px 4px #280000, inset 0 8px 7px #970000;
-text-shadow: none;
+  background: #000000;
+  border-color: #222;
+  color: #eee;
+  box-shadow: inset 0 -8px 4px #280000, inset 0 8px 7px #970000;
+  text-shadow: none;
 }
 
 .actions a:hover,
@@ -302,36 +302,36 @@ label.action:hover,
 .actions input:focus,
 #dashboard a:focus,
 .actions .disabled select {
-color: #999;
-border-color: #000;
-box-shadow: inset 2px 2px 2px #000;
+  color: #999;
+  border-color: #000;
+  box-shadow: inset 2px 2px 2px #000;
 }
 
 .actions a:active,
 .current,
 a.current,
 .current a:visited {
-color: #fff;
-background: #000000;
-border-color: #fff;
-box-shadow: inset 1px 1px 3px #333;
+  color: #fff;
+  background: #000000;
+  border-color: #fff;
+  box-shadow: inset 1px 1px 3px #333;
 }
 
 .delete a,
 span.delete {
-box-shadow: -1px -1px 2px rgba(255,255,255.25);
+  box-shadow: -1px -1px 2px rgba(255,255,255.25);
 }
 
 .actions label.disabled {
-background: #000000;
-box-shadow: none;
+  background: #000000;
+  box-shadow: none;
 }
 
 ul.required-tags,
 .bookmark .status span,
 .blurb .icon {
-opacity: 0.9;
-border: 0;
+  opacity: 0.9;
+  border: 0;
 }
 
 #outer .group .heading,
@@ -340,13 +340,13 @@ fieldset.listbox .heading,
 .userstuff .heading,
 .heading,
 .userstuff h2 {
-text-shadow: none;
-color: #646464;
-font-family: "Georgia", "Times New Roman", serif; 
-font-weight: bold !important;
-letter-spacing: 0.5px;
-text-shadow: 1px 1px 2px black;
-background: none;
+  text-shadow: none;
+  color: #646464;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: bold !important;
+  letter-spacing: 0.5px;
+  text-shadow: 1px 1px 2px black;
+  background: none;
 }
 
 #header .actions a,
@@ -354,51 +354,51 @@ fieldset fieldset,
 .mce-container button,
 .filters .expander,
 .actions .disabled select {
-box-shadow: none;
+  box-shadow: none;
 }
 
 fieldset fieldset.listbox {
-outline: none;
+  outline: none;
 }
 
 form dd.required {
-color: #eee;
+  color: #eee;
 }
 
 .mce-container input:focus {
-background: #F3EFEC;
+  background: #F3EFEC;
 }
 
 .announcement .userstuff a,
 .announcement .userstuff a:link,
 .announcement .userstuff a:visited:hover {
-color: #111;
+  color: #111;
 }
 
 .announcement .userstuff a:visited {
-color: #666;
+  color: #666;
 }
 
 .announcement .userstuff a:hover,
 .announcement .userstuff a:focus {
-color: #999;
+  color: #999;
 }
 
 .event.announcement .userstuff a,
 .filters .expander {
-color: #eee;
+  color: #eee;
 }
 
 .caution {
-border-color: #000000;
-color: #ffffff;
+  border-color: #000000;
+  color: #ffffff;
 }
 
 #outer .region,
 #footer .group,
 .post fieldset fieldset,
 fieldset fieldset {
-background: none;
+  background: none;
 }
 
 body,
@@ -432,11 +432,11 @@ div.dynamic,
 .dynamic form,
 #ui-datepicker-div,
 .ui-datepicker table {
-background: #000000;
-color: #eee;
-border-color: #5c0000;
-outline: #111;
-box-shadow: none;
+  background: #000000;
+  color: #eee;
+  border-color: #5c0000;
+  outline: #111;
+  box-shadow: none;
 }
 
 #header .actions a:hover,
@@ -460,7 +460,7 @@ th,
 .thread .even,
 .system .tweet_list li,
 .ui-datepicker tr:hover {
-background: #000000;
+  background: #000000;
 }
 
 #header .dropdown .menu a:hover,
@@ -469,7 +469,7 @@ background: #000000;
 .ui-datepicker td:hover,
 #tos_prompt .heading,
 #tos_prompt [disabled] {
-background: #000000;
+  background: #000000;
 }
 
 #outer,
@@ -478,14 +478,14 @@ background: #000000;
 #tos_prompt,
 .announcement input[type="submit"],
 .nomination dt {
-background: #000000;
+  background: #000000;
 }
 
 #outer #footer {
-    background-image: url("https://i.ibb.co/zhZSTPt7/footer.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+  background-image: url("https://i.ibb.co/zhZSTPt7/footer.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 #header ul.primary,
@@ -505,7 +505,7 @@ form.single fieldset,
 .bookmark .status span,
 .splash .news li,
 .filters .group dt.bookmarker {
-border-color: #910000;
+  border-color: #910000;
 }
 
 .group.listbox,
@@ -517,7 +517,7 @@ fieldset fieldset.listbox,
 form blockquote.userstuff,
 .thread .comment,
 .toggled form {
-box-shadow: 1px 1px 3px #000;
+  box-shadow: 1px 1px 3px #000;
 }
 
 #dashboard .current,
@@ -536,14 +536,14 @@ dl.index dd,
 .unwrangled,
 .unreviewed,
 .ui-sortable li:hover {
-background: #000;
-border-color: #4f0000;
-box-shadow: -1px -1px 3px #000;
+  background: #000;
+  border-color: #4f0000;
+  box-shadow: -1px -1px 3px #000;
 }
 
 input,
 textarea {
-box-shadow: inset 0 1px 2px #000;
+  box-shadow: inset 0 1px 2px #000;
 }
 
 li.blurb,
@@ -551,7 +551,7 @@ li.blurb,
 .listbox .index,
 fieldset fieldset.listbox,
 .dashboard .listbox .index {
-box-shadow: inset 1px 1px 3px #000;
+  box-shadow: inset 1px 1px 3px #000;
 }
 
 #footer a:hover,
@@ -562,14 +562,14 @@ a.tag:hover,
 .listbox .heading a.tag:visited:hover,
 .symbol .question,
 .qtip-content {
-background: #000000;
-color: #888888;
+  background: #000000;
+  color: #888888;
 }
 
 .splash .favorite li:nth-of-type(odd) a:hover,
 .splash .favorite li:nth-of-type(odd) a:focus {
-background: #910000;
-color: #111;
+  background: #910000;
+  color: #111;
 }
 
 #header #greeting img,
@@ -604,7 +604,7 @@ a.work,
 a.cloud7,
 a.cloud8,
 #tos_prompt .heading {
-color: #910000;
+  color: #910000;
 }
 
 #greeting .icon,
@@ -620,7 +620,7 @@ input.LV_invalid_field:active,
 textarea.LV_invalid_field:hover,
 textarea.LV_invalid_field:active,
 .qtip-content {
-border-color: #910000;
+  border-color: #910000;
 }
 
 a,
@@ -639,7 +639,7 @@ a.tag,
 .heading,
 .group .heading,
 .filters dt a:hover {
-color: #8e8e8e;
+  color: #8e8e8e;
 
 }
 
@@ -649,7 +649,7 @@ a:visited,
 .action a:visited,
 .listbox .heading a:visited,
 span.series .divider {
-color: #999;
+  color: #999;
 }
 
 .actions a,
@@ -663,11 +663,11 @@ button,
 .current,
 .actions label,
 #header .actions a {
-background: #000000;
-border-color: #520000;
-color: #eee;
-box-shadow: inset 0 -8px 4px #420000, inset 0 8px 7px #555;
-text-shadow: none;
+  background: #000000;
+  border-color: #520000;
+  color: #eee;
+  box-shadow: inset 0 -8px 4px #420000, inset 0 8px 7px #555;
+  text-shadow: none;
 }
 
 .actions a:hover,
@@ -681,36 +681,36 @@ label.action:hover,
 .actions input:focus,
 #dashboard a:focus,
 .actions .disabled select {
-color: #910000;
-border-color: #000;
-box-shadow: inset 2px 2px 2px #910000;
+  color: #910000;
+  border-color: #000;
+  box-shadow: inset 2px 2px 2px #910000;
 }
 
 .actions a:active,
 .current,
 a.current,
 .current a:visited {
-color: #fff;
-background: #000000;
-border-color: #fff;
-box-shadow: inset 1px 1px 3px #470000;
+  color: #fff;
+  background: #000000;
+  border-color: #fff;
+  box-shadow: inset 1px 1px 3px #470000;
 }
 
 .delete a,
 span.delete {
-box-shadow: -1px -1px 2px rgba(255,255,255.25);
+  box-shadow: -1px -1px 2px rgba(255,255,255.25);
 }
 
 .actions label.disabled {
-background: #000000;
-box-shadow: none;
+  background: #000000;
+  box-shadow: none;
 }
 
 ul.required-tags,
 .bookmark .status span,
 .blurb .icon {
-opacity: 0.9;
-border: 0;
+  opacity: 0.9;
+  border: 0;
 }
 
 #outer .group .heading,
@@ -719,9 +719,9 @@ fieldset.listbox .heading,
 .userstuff .heading,
 .heading,
 .userstuff h2 {
-text-shadow: none;
-color: #6b6b6b;
-background: none;
+  text-shadow: none;
+  color: #6b6b6b;
+  background: none;
 }
 
 #header .actions a,
@@ -729,44 +729,44 @@ fieldset fieldset,
 .mce-container button,
 .filters .expander,
 .actions .disabled select {
-box-shadow: none;
+  box-shadow: none;
 }
 
 fieldset fieldset.listbox {
-outline: none;
+  outline: none;
 }
 
 form dd.required {
-color: #eee;
+  color: #eee;
 }
 
 .mce-container input:focus {
-background: #F3EFEC;
+  background: #F3EFEC;
 }
 
 .announcement .userstuff a,
 .announcement .userstuff a:link,
 .announcement .userstuff a:visited:hover {
-color: #111;
+  color: #111;
 }
 
 .announcement .userstuff a:visited {
-color: #910000;
+  color: #910000;
 }
 
 .announcement .userstuff a:hover,
 .announcement .userstuff a:focus {
-color: #999;
+  color: #999;
 }
 
 .event.announcement .userstuff a,
 .filters .expander {
-color: #eee;
+  color: #eee;
 }
 
 .caution {
-border-color: rgb(255, 255, 255);
-color: #910000;
+  border-color: rgb(255, 255, 255);
+  color: #910000;
 }
 
 #footer a,
@@ -774,10 +774,10 @@ color: #910000;
 .bottom a,
 .site-footer a,
 .links a {
-font-family: "Georgia", "Times New Roman", serif;
-font-weight: bold !important;
-letter-spacing: 0.5px;
-color: #910000 !important;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: bold !important;
+  letter-spacing: 0.5px;
+  color: #910000 !important;
 }
 
 #header a,
@@ -785,7 +785,29 @@ color: #910000 !important;
 .navbar a,
 .menu a,
 .topnav a {
-font-family: "Georgia", "Times New Roman", serif;
-letter-spacing: 0.5px;
-color: #910000 !important;
+  font-family: "Georgia", "Times New Roman", serif;
+  letter-spacing: 0.5px;
+  color: #910000 !important;
+}
+
+#header .heading a {
+  color: rgba(0, 0, 0, 0.0) !important;
+  text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
+  font-size: 1.5em;
+  line-height: 6em;
+  display: block;
+  height: 150px;
+  background-image: url("https://i.ibb.co/gLCPZjjH/banner-ao3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+#header .heading {
+  float: none !important;
+  padding: 0.375em;
+}
+
+#header .logo {
+  display: none !important;
 }
